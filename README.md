@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/iisheng/iisheng/blob/master/developer.gif"/>
+  <img align="center" src="https://img.iisheng.cn/developer.gif"/>
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=iisheng" style="max-width:100%;">
 
